@@ -16,7 +16,7 @@ require (
 	github.com/taosdata/driver-go/v3 v3.5.1
 	golang.org/x/net v0.17.0 // indirect
 	google.golang.org/grpc v1.53.0 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/klog/v2 v2.100.1
 )
