@@ -14,7 +14,7 @@ require (
 	github.com/sailorvii/goav v0.1.4
 	github.com/spf13/pflag v1.0.6-0.20210604193023-d5e0c0615ace // indirect
 	github.com/taosdata/driver-go/v3 v3.5.1
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	google.golang.org/grpc v1.53.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
@@ -35,8 +35,8 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/oapi-codegen/runtime v1.0.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4 // indirect
 )
 
